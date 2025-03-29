@@ -45,7 +45,7 @@ Installation
 
    node server.js
 
-   By default, the backend runs on `http://localhost:3000/`.
+   By default, the app runs on https://ecommerce-1r4p.onrender.com
 
  4.Open the Frontend
 
