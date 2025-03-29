@@ -1,0 +1,101 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Fridge",
+        "price": 45345,
+        "image": "Images/fridge.webp"
+      },
+      {
+        "id": 2,
+        "name": "TV",
+        "price": 50108,
+        "image": "Images/tv.webp"
+      },
+      {
+        "id": 3,
+        "name": "Phone",
+        "price": 63000,
+        "image": "Images/phone.webp"
+      },
+      {
+        "id": 4,
+        "name": "Sub-Woofer",
+        "price": 8458,
+        "image": "Images/woofer.webp"
+      },
+      {
+        "id": 5,
+        "name": "Laptop",
+        "price": 74308,
+        "image": "Images/hp.webp"
+      },
+      {
+        "id": 6,
+        "name": "USB Drive",
+        "price": 4000,
+        "image": "Images/drive.webp"
+      },
+      {
+        "id": 7,
+        "name": "Card Reader",
+        "price": 1500,
+        "image": "Images/card-reader.webp"
+      },
+      {
+        "id": 8,
+        "name": "Solar Panel",
+        "price": 38606,
+        "image": "Images/solar.webp"
+      },
+      {
+        "id": 9,
+        "name": "Headphones",
+        "price": 3800,
+        "image": "Images/headphone.webp"
+      },
+      {
+        "id": 10,
+        "name": "Smart Watch",
+        "price": 6666,
+        "image": "Images/watch.webp"
+      },
+      {
+        "id": 11,
+        "name": "Military Boots",
+        "price": 3499,
+        "image": "Images/boots.webp"
+      },
+      {
+        "id": 12,
+        "name": "Balaclavas",
+        "price": 800,
+        "image": "Images/balaclava.webp"
+      },
+      {
+        "id": 13,
+        "name": "Tactical Belt",
+        "price": 1000,
+        "image": "Images/belt.webp"
+      },
+      {
+        "id": 14,
+        "name": "Combat Gloves",
+        "price": 900,
+        "image": "Images/gloves.webp"
+      },
+      {
+        "id": 15,
+        "name": "Combat trauser",
+        "price": 2500,
+        "image": "Images/pants.webp"
+      },
+      {
+        "id": 16,
+        "name": "Military caps",
+        "price": 800,
+        "image": "Images/caps.webp"
+      }
+    ]
+  }
+  
