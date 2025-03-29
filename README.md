@@ -1,4 +1,6 @@
- RAPUDO'S ECOMMERCE
+ RAPUDO'S ECOMMERCE.
+
+ This is a simple online shopping store. 
 
 An online shopping platform where users can browse products, add them to a cart, and checkout. The backend is powered by Express.js, serving a mock database (`db.json`), while the frontend is built with HTML, CSS, and JavaScript.
 
