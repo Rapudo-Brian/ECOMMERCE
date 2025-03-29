@@ -11,7 +11,6 @@ document.addEventListener("DOMContentLoaded", () => {
     const cartDiscount = document.getElementById("cart-discount");
     const finalPrice = document.getElementById("final-price");
     const checkoutButton = document.getElementById("checkout");
-    // const cartModal = document.getElementById("cart-modal");
    
     // Fetch and display products from JSON server
     async function fetchProducts() {
