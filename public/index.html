@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>RAPUDO'S ECOMMERCE</title>
+        <link rel="stylesheet" href="styles.css">
+    </head>
+
+    <body>
+        <header>
+            <h1>RAPUDO'S STORE</h1>
+            <button id="toggle-theme">Dark Mode</button>
+            <lebel for="search">Search</label>   
+            <input type="text" id="search" placeholder="Search products...">
+            <button id="view-cart">Cart (<span id="cart-count">0</span>)</button>
+        </header>
+
+        <div class="container">
+            <!-- This is where JavaScript will dynamically insert products -->
+            <div id="product-container"></div>
+
+            <!-- Cart Modal -->
+            <!-- <div id="cart-modal" class="modal">Cart</div> -->
+            <div class="modal-content">
+                <span class="close">&times;</span>
+                <h1>Shopping Cart</h1>
+                <ul id="cart-items"></ul>
+                <p><strong>Total Price: Ksh. </strong><span id="cart-total">0</span></p>
+                <p><strong>Discount: Ksh. </strong><span id="final-price">0</span></p>
+                <p><strong>Final Price: Ksh.</strong><span id="cart-discount">0</span></p>
+                <button id="checkout">Checkout</button>
+            </div>
+        </div>
+        
+        <footer class="footer">
+            <p>&copy; 2025 Rapudo'Store -- All Rights Reserved</p>
+        </footer>
+
+        <script src="script.js"></script>    
+    </body>
+
+</html>
