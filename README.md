@@ -1,5 +1,9 @@
  RAPUDO'S ECOMMERCE.
 
+ The app runs on: **[Visit the E-commerce Site](https://ecommerce-1r4p.onrender.com)**
+
+
+
  This is a simple online shopping store. 
 
 An online shopping platform where users can browse products, add them to a cart, and checkout. The backend is powered by Express.js, serving a mock database (`db.json`), while the frontend is built with HTML, CSS, and JavaScript.
