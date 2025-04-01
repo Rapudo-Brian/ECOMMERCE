@@ -1,6 +1,7 @@
  RAPUDO'S ECOMMERCE.
 
- The app runs on: **[Visit the E-commerce Site](https://ecommerce-1r4p.onrender.com)**
+ The app runs on: [https://ecommerce-1r4p.onrender.com](https://ecommerce-1r4p.onrender.com)
+
 
 
 
